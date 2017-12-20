@@ -5,7 +5,7 @@
 KEYWORD = 'apple'
 
 #MongoDB服务器参数：连接地址，数据库名称，表名
-MONGO_URL = '192.168.0.187'  
+MONGO_URL = 'localhost'  
 MONGO_DB = 'taobao'
 MONGO_TABLE = 'taobao' + '_' + KEYWORD
 

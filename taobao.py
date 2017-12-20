@@ -1,6 +1,6 @@
 #coding:utf-8
 #author by Failymao
-'''
+__doc__ == '''
     分析
     - 搜索关键字，利用Selenium驱动浏览器搜索，得到查询后的商品列表
     - 分析页码并翻页，得到商品页码数，得到后续页面的商品列表
@@ -14,7 +14,7 @@ from selenium import  webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException                  #导入等待超时模块
+from selenium.common.exceptions import TimeoutException                        #导入等待超时模块
 from pyquery import PyQuery as pq
 
 
