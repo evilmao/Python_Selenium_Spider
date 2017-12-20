@@ -1,0 +1,2 @@
+# Python_Selenium_Spider
+结合selenium+PantomJs/Chrome爬取淘宝搜索相关宝贝信息
