@@ -42,9 +42,9 @@ Running Environment(运行环境)
 
 ***这里需要提示一下，所有的driver下载完毕后，务必加入到python相应版本的目录下，否则调用时，会报错（windows下，linux具体目录根据版本不同请自行google）***
 
-如下图（windows 10）
+如下图（windows 10）		
 
-![](http://ww1.sinaimg.cn/large/8599e4cfly1fmnekpum10j20kn06h74n.jpg)
+![](http://ww1.sinaimg.cn/large/8599e4cfly1fmne80ntacj20kn06h74n.jpg)		
 
 ## Problem analysis
 
@@ -56,7 +56,7 @@ Running Environment(运行环境)
 
 ## Update
 
- 程序比较粗糙，重在理解selenium爬取复杂网站的优势，具体优化方案很多！后期有时间再捯饬
+ 程序比较粗糙，重在理解selenium爬取复杂网站的优势，具体优化方案很多！后期有时间继续优化！
 
 
 
