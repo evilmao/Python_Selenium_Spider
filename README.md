@@ -44,7 +44,7 @@ Running Environment(运行环境)
 
 如下图（windows 10）
 
-​		![](http://ww1.sinaimg.cn/large/8599e4cfly1fmne80ntacj20kn06h74n.jpg)		
+![](http://ww1.sinaimg.cn/large/8599e4cfly1fmne80ntacj20kn06h74n.jpg)		
 
 ## Problem analysis
 
@@ -56,7 +56,7 @@ Running Environment(运行环境)
 
 ## Update
 
- 程序比较粗糙，重在理解selenium爬取复杂网站的优势，具体优化方案很多！后期有时间继续优化！
+ 程序比较粗糙，重在理解selenium爬取复杂网站的优势，具体优化方案很多！后期有时间再捯饬
 
 
 
